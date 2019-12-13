@@ -1,6 +1,5 @@
 import React from 'react';
 
-
-export const Portfolio = () => (
+export const Resume = () => (
     <div> </div>
 );
